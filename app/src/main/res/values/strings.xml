@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Hitung Nilai Akhir</string>
+    <string name="judul">Hitung Jitu Nilai</string>
+    <string name="nama_siswa">Nama: %1$s</string>
+    <string name="nama">Nama</string>
+    <string name="hadir_nilai">Nilai Kehadiran</string>
+    <string name="tugas_nilai">Nilai Tugas</string>
+    <string name="uts_nilai">Nilai UTS</string>
+    <string name="uas_nilai">Nilai UAS</string>
+    <string name="hitung_nilai">Hitung</string>
+    <string name="akhir_nilai">Nilai Akhir</string>
+    <string name="huruf_nilai">Nilai Huruf</string>
+    <string name="akhir_n">Nilai Akhir:  %1$.2f</string>
+    <string name="huruf_n">Nilai Huruf: %1$s</string>
+    <string name="nilai_a">A</string>
+    <string name="nilai_b">B</string>
+    <string name="nilai_c">C</string>
+    <string name="reset_n">reset</string>
+</resources>
